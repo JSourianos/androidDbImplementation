@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lecture Eleven</string>
+    <string name="add_record">ADD RECORD</string>
+    <string name="time">Time</string>
+    <string name="enter_seconds">Enter seconds</string>
+    <string name="enter_distance">Enter distance</string>
+    <string name="distance">Distance</string>
+    <string name="enter_name">Enter name</string>
+    <string name="name">Name</string>
+</resources>
